@@ -1,6 +1,6 @@
-print("Hello, Welcome to the game of Tic Tac Toe!")
+print("Hello, Welcome to the game of Health!")
 name = input("Hello once again, please enter your name:")
-print("Hello", name, "let's play Tic Tac Toe!")
+print("Hello", name, "now let's see if you are healthy!")
 age = int(input("How old are you?:"))
 print("You are", age, "years old.")
 height = float(input("How tall are you in meters?:"))
