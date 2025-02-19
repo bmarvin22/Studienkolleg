@@ -1,4 +1,4 @@
-print("Hello, Welcome to the game of Health!")
+#print("Hello, Welcome to the game of Health!")
 name = input("Hello once again, please enter your name:")
 print("Hello", name, "now let's see if you are healthy!")
 age = int(input("How old are you?:"))
